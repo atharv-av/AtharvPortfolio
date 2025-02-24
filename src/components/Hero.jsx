@@ -57,8 +57,7 @@ const Hero = () => {
             transition={{ duration: 1, delay: 1 }}
             className="text-gray-300 max-w-[300px] md:max-w-[500px] md:text-2xl text-lg mb-6"
           >
-            I am a passionate fullstack developer with over 5 years of
-            experience.
+            I am a passionate fullstack developer with internship experience at 4 startups.
           </motion.p>
 
           <motion.div
