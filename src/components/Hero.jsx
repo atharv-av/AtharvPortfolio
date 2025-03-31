@@ -68,7 +68,7 @@ const Hero = () => {
             className="flex flex-row items-center gap-6 my-4 md:mb-0"
           >
             <motion.a
-              href="https://drive.google.com/file/d/1x8mI547GqTAguWqwXECYAqvI4ejNpNyV/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1XmHjYWnr2YtKTsw0-S9-K41vQYg45RRA/view?usp=sharing"
               target="_blank"
               whileHover={{
                 scale: 1.05,
